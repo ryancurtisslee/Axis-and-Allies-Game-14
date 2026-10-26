@@ -1,4 +1,4 @@
-import{g as X1,h as M7,p as y7,r as e3,j as x4}from"./snapshot-6RLPQ0og.js";/**
+import{g as X1,h as M7,p as y7,r as e3,j as x4}from"./snapshot-B4tVl15G.js";/**
  * @license
  * Copyright 2010-2024 Three.js Authors
  * SPDX-License-Identifier: MIT
